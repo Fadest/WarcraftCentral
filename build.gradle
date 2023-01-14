@@ -23,9 +23,7 @@ dependencies {
     implementation group: 'org.springframework.boot', name: 'spring-boot-starter-oauth2-client', version: '2.7.7'
 
     implementation group: 'org.modelmapper', name: 'modelmapper', version: '2.4.4'
-
     implementation group: 'com.google.code.gson', name: 'gson', version: '2.10.1'
-    testImplementation 'junit:junit:4.13.1'
 
     runtimeOnly group: 'org.hibernate', name: 'hibernate-core', version: '6.2.0.CR1'
     runtimeOnly group: 'org.postgresql', name: 'postgresql', version: '42.5.1'
@@ -36,9 +34,7 @@ dependencies {
     testImplementation platform(group: 'org.junit', name: 'junit-bom', version: '5.9.2')
     testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.9.2'
 
-    // testImplementation 'org.mock-server:mockserver-spring-test-listener:5.14.0'
-
-    testImplementation 'com.h2database:h2:1.4.191'
+    testImplementation group: 'com.h2database', name: 'h2', version: '2.1.210'
     testImplementation group: 'com.github.tomakehurst', name: 'wiremock-jre8-standalone', version: '2.35.0'
     testImplementation group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '2.7.3'
 }
