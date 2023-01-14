@@ -21,10 +21,13 @@ gradlew build
 
 ### Environment Variables
 
-| Name | Value |
-| --------- | --- |
-| BLIZZARD_API_CLIENT_ID | Blizzard API Client ID |
+| Name                       | Value                   |
+|----------------------------|-------------------------|
+| BLIZZARD_API_CLIENT_ID     | Blizzard API Client ID  |
 | BLIZZARD_API_CLIENT_SECRET | Blizzard API Client secret |
+| POSTGRES_HOST              | Postgres Host           |
+| POSTGRES_USER              | Postgres Username       |
+| POSTGRES_PASSWORD          | Postgres Password       |
 
 ### Endpoints
 
