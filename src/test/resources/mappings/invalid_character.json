@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/us/profile/wow/character/quelthalas/keyber",
+    "queryParameters": {
+      "namespace": {
+        "equalTo": "profile-us"
+      }
+    }
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}

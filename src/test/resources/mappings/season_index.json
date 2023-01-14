@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/us/data/wow/pvp-season/index",
+    "queryParameters": {
+      "namespace": {
+        "equalTo": "dynamic-us"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "season_index.json"
+  }
+}

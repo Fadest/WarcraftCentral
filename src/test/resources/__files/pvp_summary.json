@@ -1,0 +1,42 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/pvp-summary?namespace=profile-us"
+    }
+  },
+  "brackets": [
+    {
+      "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/pvp-bracket/shuffle-deathknight-unholy?namespace=profile-us"
+    }
+  ],
+  "honor_level": 32,
+  "honorable_kills": 3187,
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest?namespace=profile-us"
+    },
+    "name": "Fadest",
+    "id": 228565007,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/1428?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Quel'Thalas",
+        "es_MX": "Quel'Thalas",
+        "pt_BR": "Quel'Thalas",
+        "de_DE": "Quel'Thalas",
+        "en_GB": "Quel'Thalas",
+        "es_ES": "Quel'Thalas",
+        "fr_FR": "Quel'Thalas",
+        "it_IT": "Quel'Thalas",
+        "ru_RU": "Quel'Thalas",
+        "ko_KR": "Quel'Thalas",
+        "zh_TW": "奎爾薩拉斯",
+        "zh_CN": "奎尔萨拉斯"
+      },
+      "id": 1428,
+      "slug": "quelthalas"
+    }
+  }
+}

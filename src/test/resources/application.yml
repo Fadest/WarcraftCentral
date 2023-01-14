@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    url: "jdbc:h2:mem:warcraft;MODE=MySQL;IGNORECASE=TRUE"
+    username: SA
+    password:
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    generate-ddl: true
+    properties:
+      hibernate:
+        dialect: "org.hibernate.dialect.H2Dialect"
+        format_sql: true
+  security:
+    oauth2:
+      client:
+        provider:
+          blizzard:
+            token-uri: "https://oauth.battle.net/token"
+        registration:
+          blizzard:
+            client-id: ${BLIZZARD_API_CLIENT_ID}
+            client-secret: ${BLIZZARD_API_CLIENT_SECRET}
+            authorization-grant-type: "client_credentials"

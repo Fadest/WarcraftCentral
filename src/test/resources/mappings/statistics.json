@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/us/profile/wow/character/quelthalas/fadest/achievements/statistics",
+    "queryParameters": {
+      "namespace": {
+        "equalTo": "profile-us"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "statistics.json"
+  }
+}

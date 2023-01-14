@@ -1,0 +1,280 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest?namespace=profile-us"
+    }
+  },
+  "id": 228565007,
+  "name": "Fadest",
+  "gender": {
+    "type": "MALE",
+    "name": {
+      "en_US": "Male",
+      "es_MX": "Masculino",
+      "pt_BR": "Masculino",
+      "de_DE": "Männlich",
+      "en_GB": "Male",
+      "es_ES": "Masculino",
+      "fr_FR": "Homme",
+      "it_IT": "Maschio",
+      "ru_RU": "Мужской",
+      "ko_KR": "남성",
+      "zh_TW": "男性",
+      "zh_CN": "男性"
+    }
+  },
+  "faction": {
+    "type": "HORDE",
+    "name": {
+      "en_US": "Horde",
+      "es_MX": "Horda",
+      "pt_BR": "Horda",
+      "de_DE": "Horde",
+      "en_GB": "Horde",
+      "es_ES": "Horda",
+      "fr_FR": "Horde",
+      "it_IT": "Orda",
+      "ru_RU": "Орда",
+      "ko_KR": "호드",
+      "zh_TW": "部落",
+      "zh_CN": "部落"
+    }
+  },
+  "race": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.2_46479-us"
+    },
+    "name": {
+      "en_US": "Orc",
+      "es_MX": "Orco",
+      "pt_BR": "Orc",
+      "de_DE": "Orc",
+      "en_GB": "Orc",
+      "es_ES": "Orco",
+      "fr_FR": "Orc",
+      "it_IT": "Orco",
+      "ru_RU": "Орк",
+      "ko_KR": "오크",
+      "zh_TW": "獸人",
+      "zh_CN": "兽人"
+    },
+    "id": 2
+  },
+  "character_class": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.0.2_46479-us"
+    },
+    "name": {
+      "en_US": "Death Knight",
+      "es_MX": "Caballero de la Muerte",
+      "pt_BR": "Cavaleiro da Morte",
+      "de_DE": "Todesritter",
+      "en_GB": "Death Knight",
+      "es_ES": "Caballero de la Muerte",
+      "fr_FR": "Chevalier de la mort",
+      "it_IT": "Cavaliere della Morte",
+      "ru_RU": "Рыцарь смерти",
+      "ko_KR": "죽음의 기사",
+      "zh_TW": "死亡騎士",
+      "zh_CN": "死亡骑士"
+    },
+    "id": 6
+  },
+  "active_spec": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-10.0.2_46479-us"
+    },
+    "name": {
+      "en_US": "Unholy",
+      "es_MX": "Profano",
+      "pt_BR": "Profano",
+      "de_DE": "Unheilig",
+      "en_GB": "Unholy",
+      "es_ES": "Profano",
+      "fr_FR": "Impie",
+      "it_IT": "Empietà",
+      "ru_RU": "Нечестивость",
+      "ko_KR": "부정",
+      "zh_TW": "穢邪",
+      "zh_CN": "邪恶"
+    },
+    "id": 252
+  },
+  "realm": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/realm/1428?namespace=dynamic-us"
+    },
+    "name": {
+      "en_US": "Quel'Thalas",
+      "es_MX": "Quel'Thalas",
+      "pt_BR": "Quel'Thalas",
+      "de_DE": "Quel'Thalas",
+      "en_GB": "Quel'Thalas",
+      "es_ES": "Quel'Thalas",
+      "fr_FR": "Quel'Thalas",
+      "it_IT": "Quel'Thalas",
+      "ru_RU": "Quel'Thalas",
+      "ko_KR": "Quel'Thalas",
+      "zh_TW": "奎爾薩拉斯",
+      "zh_CN": "奎尔萨拉斯"
+    },
+    "id": 1428,
+    "slug": "quelthalas"
+  },
+  "guild": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/guild/quelthalas/darkworld?namespace=profile-us"
+    },
+    "name": "DarkWorld",
+    "id": 87125211,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/1428?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Quel'Thalas",
+        "es_MX": "Quel'Thalas",
+        "pt_BR": "Quel'Thalas",
+        "de_DE": "Quel'Thalas",
+        "en_GB": "Quel'Thalas",
+        "es_ES": "Quel'Thalas",
+        "fr_FR": "Quel'Thalas",
+        "it_IT": "Quel'Thalas",
+        "ru_RU": "Quel'Thalas",
+        "ko_KR": "Quel'Thalas",
+        "zh_TW": "奎爾薩拉斯",
+        "zh_CN": "奎尔萨拉斯"
+      },
+      "id": 1428,
+      "slug": "quelthalas"
+    },
+    "faction": {
+      "type": "HORDE",
+      "name": {
+        "en_US": "Horde",
+        "es_MX": "Horda",
+        "pt_BR": "Horda",
+        "de_DE": "Horde",
+        "en_GB": "Horde",
+        "es_ES": "Horda",
+        "fr_FR": "Horde",
+        "it_IT": "Orda",
+        "ru_RU": "Орда",
+        "ko_KR": "호드",
+        "zh_TW": "部落",
+        "zh_CN": "部落"
+      }
+    }
+  },
+  "level": 70,
+  "experience": 0,
+  "achievement_points": 17025,
+  "achievements": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/achievements?namespace=profile-us"
+  },
+  "titles": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/titles?namespace=profile-us"
+  },
+  "pvp_summary": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/pvp-summary?namespace=profile-us"
+  },
+  "encounters": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/encounters?namespace=profile-us"
+  },
+  "media": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/character-media?namespace=profile-us"
+  },
+  "last_login_timestamp": 1672293016000,
+  "average_item_level": 348,
+  "equipped_item_level": 347,
+  "specializations": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/specializations?namespace=profile-us"
+  },
+  "statistics": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/statistics?namespace=profile-us"
+  },
+  "mythic_keystone_profile": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/mythic-keystone-profile?namespace=profile-us"
+  },
+  "equipment": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/equipment?namespace=profile-us"
+  },
+  "appearance": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/appearance?namespace=profile-us"
+  },
+  "collections": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/collections?namespace=profile-us"
+  },
+  "active_title": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/title/97?namespace=static-10.0.2_46479-us"
+    },
+    "name": {
+      "en_US": "Champion of the Frozen Wastes",
+      "es_MX": "Campeón de los baldíos helados",
+      "pt_BR": "Campeão dos Ermos Gélidos",
+      "de_DE": "Held der eisigen Weiten",
+      "en_GB": "Champion of the Frozen Wastes",
+      "es_ES": "Campeón de los baldíos helados",
+      "fr_FR": "champion des terres gelées",
+      "it_IT": "il Campione delle Distese Ghiacciate",
+      "ru_RU": "защитник ледяных пустошей",
+      "ko_KR": "얼어붙은 황무지의 용사",
+      "zh_TW": "冰凍荒原勇士",
+      "zh_CN": "冰冻废土的勇士"
+    },
+    "id": 97,
+    "display_string": {
+      "en_US": "{name}, Champion of the Frozen Wastes",
+      "es_MX": "{name}, Campeón de los baldíos helados",
+      "pt_BR": "{name}, Campeão dos Ermos Gélidos",
+      "de_DE": "{name}, Held der eisigen Weiten",
+      "en_GB": "{name}, Champion of the Frozen Wastes",
+      "es_ES": "{name}, Campeón de los baldíos helados",
+      "fr_FR": "{name}, champion des terres gelées",
+      "it_IT": "{name} il Campione delle Distese Ghiacciate",
+      "ru_RU": "{name}, защитник ледяных пустошей",
+      "ko_KR": "얼어붙은 황무지의 용사 {name}",
+      "zh_TW": "冰凍荒原勇士 {name}",
+      "zh_CN": "{name}, 冰冻废土的勇士"
+    }
+  },
+  "reputations": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/reputations?namespace=profile-us"
+  },
+  "quests": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/quests?namespace=profile-us"
+  },
+  "achievements_statistics": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/achievements/statistics?namespace=profile-us"
+  },
+  "professions": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/professions?namespace=profile-us"
+  },
+  "covenant_progress": {
+    "chosen_covenant": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/covenant/4?namespace=static-10.0.2_46479-us"
+      },
+      "name": {
+        "en_US": "Necrolord",
+        "es_MX": "Necroseñores",
+        "pt_BR": "Necrolordes",
+        "de_DE": "Nekrolords",
+        "en_GB": "Necrolord",
+        "es_ES": "necroseñores",
+        "fr_FR": "Nécro-seigneurs",
+        "it_IT": "Necrosignori",
+        "ru_RU": "Некролорды",
+        "ko_KR": "강령군주",
+        "zh_TW": "死靈領主",
+        "zh_CN": "通灵领主"
+      },
+      "id": 4
+    },
+    "renown_level": 80,
+    "soulbinds": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/quelthalas/fadest/soulbinds?namespace=profile-us"
+    }
+  }
+}
